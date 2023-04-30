@@ -1,0 +1,24 @@
+body{
+    background-color:#EBDEF0;
+    align-items:center;
+}
+#text{
+    font-size: 50px;
+    color: blue;
+    text-align: center;
+}
+#sub{
+    font-size: 30px;
+    color:blueviolet;
+    text-align:center;
+}
+#paragraph{
+    font-size: 22px;
+    color:black;
+    align-content:left;
+}
+#quote{
+    font-size: 55px;
+    color:darkolivegreen;
+    text-align:center;
+}
